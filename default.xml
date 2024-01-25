@@ -15,7 +15,7 @@
   <project path="hardware/interfaces" name="hardware_interfaces" revision="arpi-14" remote="arpi"/>
 
   <project path="hardware/arpi" name="hardware_arpi" revision="arpi14-pi4" remote="arpi"/>
-  <project path="device/arpi/rpi4" name="device_arpi_rpi4" revision="arpi-14" remote="arpi"/>
+  <project path="device/arpi/rpi4" name="device_arpi_rpi4" revision="arpi-14" remote="personal"/>
 
   <project path="vendor/arpi/RpLauncher" name="RpLauncher" revision="arpi-14" remote="arpi"/>
 </manifest>
