@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="github" fetch="https://github.com/" />
+  <remote name="mlange" fetch="https://git.mlange.dedyn.io/mlange/" />
 
   <!-- AOSP Training -->
   <project path="tools/i2c-tools" name="michaelklemm/i2c-tools" remote="github" revision="ev3dev-stretch" />
+  <project path="device/arip/rpi4/light" name="android-lights-hal-rpi4" remote="mlange" revision="main" />
 
 </manifest>
